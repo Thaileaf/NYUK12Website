@@ -16,5 +16,14 @@ Credit to Christina Nguyen to designing the layout of this website
 Credits viewable here:
 https://k12stem.engineering.nyu.edu/humans.txt
 
-## Screenshots
+## Showcase
 
+![1](/website1.png)
+
+![2](/website2.png)
+
+![3](/website3.png)
+
+![4](/website4.png)
+
+![5](/website5.png)
