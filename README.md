@@ -1,5 +1,5 @@
-# K12Website
-A showcase for the website for K12 Center for Stem.
+# NYU K12 Website
+A showcase for the website for NYU K12 Center for Stem.
 
 Website Link:
 https://k12stem.engineering.nyu.edu/
