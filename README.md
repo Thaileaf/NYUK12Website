@@ -1,9 +1,20 @@
 # NYU K12 Website
-A showcase for the website for NYU K12 Center for Stem.
+A showcase for the official website for NYU K12 Center for STEM.
 
-Website Link:
-https://k12stem.engineering.nyu.edu/
+Developed and maintained the official website for NYU's K12 Center for STEM Education, serving as the main portal for access to NYU's K-12 STEM resources and programs.
 
+## Key Achievements
+
+High-Traffic Performance: Handles 30,000+ monthly visitors
+Modern Technology Stack: Built using React, Next.js, and AWS cloud infrastructure for scalability and maintainability
+Educational Impact: Serves as the central hub for NYU's K-12 STEM outreach initiatives, connecting students with STEM resources
+
+## Technical Implementation
+
+Frontend: React with Next.js for server-side rendering for SEO. Used libraries such as bootstrap, tailwind, and Framer motion for animations.
+Cloud Infrastructure: AWS deployment ensuring high availability and scalability
+User Experience: Responsive design across all devices
+Performance: Optimized for fast load times and smooth user experience despite high traffic volume
 
 ## Credits
 
