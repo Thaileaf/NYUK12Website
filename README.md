@@ -1,5 +1,6 @@
 # NYU K12 Website
 A showcase for the official website for NYU K12 Center for STEM.
+Live Website: k12stem.engineering.nyu.edu
 
 Developed and maintained the official website for NYU's K12 Center for STEM Education, serving as the main portal for access to NYU's K-12 STEM resources and programs.
 
